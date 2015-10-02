@@ -1,6 +1,9 @@
 # In and out filenames (not folders!)
-in_filename		/media/snabba_disk/OpenSpace/processed_data/enlil_128_1024/volume.vdf
-out_filename		/media/snabba_disk/OpenSpace/processed_data/enlil_128_1024_128.tsp
+in_filename     /home/tlforsyt/enlil/nh/8/volume.vdf
+out_filename    /home/tlforsyt/enlil/nh/8/enlil_nh_8_256_128.tsp
+
+# filename should be as follows:
+# model_event_nTimesteps_totalDimensions_brickDimensions.tsp
 
 # Number of voxels per brick (per dimensions) 
 # Need to be of same size and powers of two
